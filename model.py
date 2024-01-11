@@ -3,6 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy_utils import ArrowType
 import arrow
 
+# Adding a comment for lab 6!
 
 db = SQLAlchemy()
 
